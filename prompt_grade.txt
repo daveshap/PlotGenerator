@@ -1,0 +1,13 @@
+Grade the following plot outline against this rubric:
+
+5: Outline contains vivid details of all characters, settings, and plot elements. All plot beats are consistently depicted.
+4: Outline is complete and contains details, but there is some inconsistency between how well each plot beat is developed.
+3. Outline is complete but is lacking in details. It may be missing elements such as names, places, and settings.
+2. Outline is complete but is very generic. It has no particular details and just describes the beat sheet.
+1. Outline is incomplete or utterly bland.
+
+OUTLINE:
+
+<<STORY>>
+
+GRADE:

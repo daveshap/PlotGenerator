@@ -10,6 +10,10 @@ From any synopsis, generate a solid plot.
 4. Scenes >> Script
 5. Script >> Prose
 
+## TODO
+
+- Use a rubric grading scheme for automatic dataset augmentation
+
 # Structure
 
 ## KM Weiland

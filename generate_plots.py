@@ -63,4 +63,4 @@ if __name__ == '__main__':
         prompt = open_file('prompt_outline.txt').replace('<<STORY>>', story)
         plot = gpt3_completion(prompt)
         print('\n\nPLOT:', plot)
-        save_file('plots/%s' % file, descr)
+        save_file('plots/%s' % file, plot)
