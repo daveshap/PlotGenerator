@@ -5,7 +5,7 @@ From any synopsis, generate a solid plot.
 ## Overall Goal
 
 1. Keywords >> Synopsis
-2. Synopsis >> Plot
+2. Synopsis >> Plot (you are here)
 3. Plot >> Scenes
 4. Scenes >> Script
 5. Script >> Prose
@@ -20,25 +20,27 @@ KM Weiland: https://www.helpingwritersbecomeauthors.com/secrets-story-structure-
 2. The Ordinary World: Explore the story's stasis or status quo before things change
 3. The Setup: Hint at things going on in the wider world, or the deeper world
 
+> TODO
+
 ## Save the Cat
 
 Save the Cat: https://www.savannahgilbo.com/blog/plotting-save-the-cat
 
-1. Opening Image – 0% to 1%
-2. Theme Stated – 5%
-3. Setup – 1% to 10%
-4. Catalyst – 10%
-5. Debate – 10% to 20%
-6. Break Into Two – 20%
-7. B Story – 22%
-8. Fun and Games – 20% to 50%
-9. Midpoint – 50%
-10. Bad Guys Close In – 50% to 75%
-11. All is Lost – 75%
-12. Dark Night of the Soul – 75% to 80%
-13. Break Into Three – 80%
-14. Finale – 80% to 99%
-15. Final Image – 99% to 100%
+1. Opening Image: A single scene beat that shows a “before” snapshot of the protagonist and the flawed world that he or she lives in.
+2. Theme Stated: A single scene where a statement is made by someone other than the protagonist that hints at what the protagonist will learn before the end of the story.
+3. Setup: Multiple scenes about the protagonist’s ordinary life. Introduce supporting characters and protagonist's initial goal.
+4. Catalyst: A life-changing event that changes the protagonist's world and thinking.
+5. Debate: Multiple scenes where the protagonist cannot decide how to react to the catalyst. Protagonist resists change and the big adventure.
+6. Break Into Two: The final straw pushes the protagonist into their big adventure.
+7. B Story: Introduce a new character that makes the story more interesting and dynamic.
+8. Fun and Games: Multiple scenes where the protagonist is either thriving or failing in the new world and new way of thinking.
+9. Midpoint: The moment of truth, where everything changes again. Could be a false victory or a false defeat, or the protagonist learns something that alters their destiny.
+10. Bad Guys Close In: Multiple scenes where the antagonist looms large and becomes more significant.
+11. All is Lost: Single scene where the protagonist suffers their greatest defeat, the lowest point in the story.
+12. Dark Night of the Soul: Multiple scenes as the protagonist recovers from the greatest defeat. They consider giving up forever.
+13. Break Into Three: A single scene where the protagonist has a revelation. Suddenly everything becomes clear and they know what they must do.
+14. Finale: Several scenes where the protagonist and their allies gear up for the final confrontation with the antagonist. They create new plans, get creative, and marshal their strength. Finally, they have the main confrontation once and for all!
+15. Final Image: A single scene showing the protagonist victorious (or defeated) for good, settling into a new status quo world.
 
 ### In greater depth
 
