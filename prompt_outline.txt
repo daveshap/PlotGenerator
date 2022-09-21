@@ -1,8 +1,8 @@
-Imagine a detailed plot outline for the following story:
+Imagine a detailed plot outline for the following novel:
 
 STORY: <<STORY>>
 
-Use the following beat sheet to outline the story:
+Use the following beat sheet to outline the novel:
 1. Opening Image
 2. Theme Stated
 3. Setup
@@ -19,4 +19,4 @@ Use the following beat sheet to outline the story:
 14. Finale
 15. Final Image
 
-DETAILED FINAL OUTLINE. EACH BEAT SHOULD BE A PARAGRAPH LONG:
+DETAILED NOVEL OUTLINE. EACH BEAT SHOULD BE A PARAGRAPH LONG:
